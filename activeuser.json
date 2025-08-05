@@ -11,6 +11,6 @@
         "username": "erwin",
         "password": "1234",
         "expirydate": "15-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
