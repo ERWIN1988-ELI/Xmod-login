@@ -1,14 +1,22 @@
-[
-    {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    "admin12345": {
+{
+"testloginAja": {
+   "password": "$2y$12$nSw5O0juqlGIHT6exCf2e.92J2c7jIAV/jOhEz7L4Vbetpqu24Xf6",
+   "devices": ["REDMINOTE9PRO47B097C6A"],
+   "expiry": "15-09-2025 12:00 PM"
+},
+   "test34343": {
+   "password": "$2y$12$80ApCPiVjasMBGWglo/pRuSfxqMyR2srlbYVTbJex2Aar29mzGgZu",
+   "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
+   "expiry": "14-09-2025 12:59 PM"
+},
+   "admin1234": {
+   "password": "$2y$12$30xN27ehG5UnC14x/M9XfefBUhvPqw6IMNLB9zk325Mjkga44bdUC",
+   "devices": ["2312DRA50G8AE858BEBE788825"],
+   "expiry": "10-09-2025 12:00 PM"
+},
+   "admin12345": {
    "password": "$2y$12$p5zyhEuXGtboNTLDGq7gCuimxZtFM3wS3qKUtA49wX6M4XpEC4foi",
    "devices": ["2312DRA50G8AE858BEBE788825"],
    "expiry": "13-09-2025 12:00 PM"
 },
-]
+}
