@@ -19,4 +19,9 @@
    "devices": ["2312DRA50G8AE858BEBE788825"],
    "expiry": "14-09-2025 15:00 PM"
 },
+   "admin123456": {
+   "password": "$2y$12$3fJH28wYuW2Kcx8JHQHlSOyp7AHT1b9zfeCaWTvi5M6E/gLCJ5mRm",
+   "devices": ["2312DRA50G8AE858BEBE788825"],
+   "expiry": "14-09-2025 12:00 PM"
+},
 }
