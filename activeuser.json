@@ -9,14 +9,4 @@
    "devices": ["REDMINOTE9PRO47B0140E2D497C6A"],
    "expiry": "14-09-2025 12:59 PM"
 },
-"username": {
-   "password": "$2y$12$Vd5wfN7QKc0WEQXsD6dGveJ62/XYHQPvHOia/MG6inwL8Zji6tHPa",
-   "devices": ["2312DRA50G8AE858BEBE788825"],
-   "expiry": "15-09-2025 12:00 PM"
-},
-"username1": {
-   "password": "$2y$12$90ib4M0YjfZPbul/amUWW.G1SFEUvk9NOq1gKLpvNguKH0OocsdRO",
-   "devices": ["2312DRA50G8AE858BEBE788825"],
-   "expiry": "20-09-2025 12:00 PM"
-},
 }
