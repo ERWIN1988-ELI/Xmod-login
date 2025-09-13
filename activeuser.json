@@ -6,25 +6,9 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "77feecb8f03fc061",
-        "username": "erwin",
-        "password": "1234",
-        "expirydate": "15-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "77feecb8f03fc061",
-        "username": "erwin",
-        "password": "1234",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    }
+    "admin12345": {
+   "password": "$2y$12$p5zyhEuXGtboNTLDGq7gCuimxZtFM3wS3qKUtA49wX6M4XpEC4foi",
+   "devices": ["2312DRA50G8AE858BEBE788825"],
+   "expiry": "13-09-2025 12:00 PM"
+},
 ]
