@@ -4,4 +4,9 @@
    "devices": ["2312DRA50G12CA0B47D1C3446F"],
    "expiry": "15-09-2025 12:00 PM"
 },
+"sopi": {
+   "password": "$2y$12$9pkcbFecFwhpr/SwctSmoe0fEDk4hAC3azoBlqfMK8ZESk1rQG6NO",
+   "devices": ["24115RA8EG4A77302BA3FA92C7"],
+   "expiry": "30-09-2025 12:00 PM"
+},
 }
