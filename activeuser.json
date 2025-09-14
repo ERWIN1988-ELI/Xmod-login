@@ -14,4 +14,9 @@
    "devices": ["2312DRA50G12CA0B47D1C3446F"],
    "expiry": "15-09-2025 12:59 PM"
 },
+"Fiqrih1234": {
+   "password": "$2y$12$l4rF/lM53NDRrAWxIuU3ROUe.2YsoQg9SfNWC/N19vn3CPVG9n/WG",
+   "devices": ["SM-A146P8FE3F07876B1E882"],
+   "expiry": "10-10-2025 12:00 PM"
+},
 }
