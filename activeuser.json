@@ -1,14 +1,4 @@
 {
-"testloginAja": {
-   "password": "$2y$12$nSw5O0juqlGIHT6exCf2e.92J2c7jIAV/jOhEz7L4Vbetpqu24Xf6",
-   "devices": ["REDMINOTE9PRO47B097C6A"],
-   "expiry": "15-09-2025 12:00 PM"
-},
-"erwin1234": {
-   "password": "$2y$12$9niRJA.QHDAQeGqwDMpOIeyUutaEGpJ1NrWc0TQcm1evk19z89kK2",
-   "devices": ["2312DRA50GF99EE7BDF0EA3170"],
-   "expiry": "15-09-2025 12:59 PM"
-},
 "ahmad1234": {
    "password": "$2y$12$3BiT09mXMRtFJHKNJYdxBu4fh0fx9pchouHV7DwayiOTsTh4HM4h6",
    "devices": ["2312DRA50G12CA0B47D1C3446F"],
