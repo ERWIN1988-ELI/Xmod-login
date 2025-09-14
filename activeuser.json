@@ -9,4 +9,9 @@
    "devices": ["2312DRA50GF99EE7BDF0EA3170"],
    "expiry": "15-09-2025 12:59 PM"
 },
+"ahmad1234": {
+   "password": "$2y$12$3BiT09mXMRtFJHKNJYdxBu4fh0fx9pchouHV7DwayiOTsTh4HM4h6",
+   "devices": ["2312DRA50G12CA0B47D1C3446F"],
+   "expiry": "15-09-2025 12:00 PM"
+},
 }
