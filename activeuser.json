@@ -9,4 +9,9 @@
    "devices": ["SM-M307FCCCE30C784B4AE89"],
    "expiry": "30-09-2025 12:00 PM"
 },
+"ahmad1234": {
+   "password": "$2y$12$vF2WG6eKbeStHuHlZPpDYebqd26wZJKN04DOuhY2vIefCEzkQFX/6",
+   "devices": ["2312DRA50G12CA0B47D1C3446F"],
+   "expiry": "15-09-2025 12:59 PM"
+},
 }
