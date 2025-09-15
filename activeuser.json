@@ -29,4 +29,9 @@
    "devices": ["2312DRA50GF147460972142EC0"],
    "expiry": "16-09-2025 12:00 PM"
 },
+"bayu": {
+   "password": "$2y$12$keoMcKOQxz9GNQ6.AN.7x.cCs42gPT.80PC0AJ2TXq8oh5D4QIMHW",
+   "devices": ["INFINIXX663B2FCC20A1F4AAD751"],
+   "expiry": "13-10-2025 12:00 PM"
+},
 }
