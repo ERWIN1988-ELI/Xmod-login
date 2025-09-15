@@ -19,4 +19,9 @@
    "devices": ["SM-A146P8FE3F07876B1E882"],
    "expiry": "10-10-2025 12:00 PM"
 },
+"Marwan": {
+   "password": "$2y$12$jmr5K/XyigbdKE/c7bmv2eLsTGKMLfbuZ3UsyfrVfU5dJ3t.iyjSK",
+   "devices": ["CPH2239E6DE5FF4AFC707B9"],
+   "expiry": "15-10-2025 12:00 PM"
+},
 }
