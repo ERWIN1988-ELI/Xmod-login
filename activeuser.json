@@ -34,4 +34,9 @@
    "devices": ["INFINIXX663B2FCC20A1F4AAD751"],
    "expiry": "13-10-2025 12:00 PM"
 },
+"tukul": {
+   "password": "$2y$12$/s.6wx7FBj4G2fhBPb5GJu6fYZCVT56bicXarHe3TdhB9AV.gaDHy",
+   "devices": ["INFINIXX6853CD3411F602C5AB63"],
+   "expiry": "01-10-2025 12:00 PM"
+},
 }
