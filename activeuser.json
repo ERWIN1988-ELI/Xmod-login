@@ -39,4 +39,9 @@
    "devices": ["INFINIXX6853CD3411F602C5AB63"],
    "expiry": "01-10-2025 12:00 PM"
 },
+"ahmad12345": {
+   "password": "$2y$12$E/gIiqn556DdF2GQIjeEbOJpV3ML3ioFv/MEeLeQ7BPjG3GGptAkq",
+   "devices": ["2312DRA50GF147460972142EC0"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
