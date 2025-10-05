@@ -1,0 +1,65 @@
+[
+{
+  "username": "ujhe12",
+  "password": "1234",
+  "device_id": "785cd20d8abb526a",
+  "expirydate": "16-09-2025 13:19",
+  "Allowoffline": true
+},
+{
+  "username": "4",
+  "password": "4",
+  "device_id": "2afee772a5a19eac",
+  "expirydate": "11-10-2024 07:58",
+  "Allowoffline": false
+},
+{
+  "username": "maps",
+  "password": "1234",
+  "device_id": "4b9edccbfbefd6c3",
+  "expirydate": "30-11-2024 03:55",
+  "Allowoffline": false
+},
+{
+  "username": "erwin",
+  "password": "1234",
+  "device_id": "cc87d0ece2eeb1f1",
+  "expirydate": "30-11-2024 03:55",
+  "Allowoffline": true
+},
+{
+  "username": "grab",
+  "password": "1",
+  "device_id": "2eaadda3cbd7ea13",
+  "expirydate": "03-10-2024 11:23",
+  "Allowoffline": true
+},
+{
+  "username": "YofanLaia",
+  "password": "1234",
+  "device_id": "c3784b34ad55ae85",
+  "expirydate": "02-11-2025 11:50",
+  "Allowoffline": false
+},
+{
+  "username": "Dodyardianto",
+  "password": "1235",
+  "device_id": "661a91bf17921315e",
+  "expirydate": "01-12-2025 07:19",
+  "Allowoffline": true
+},
+{
+  "username": "Fransisca",
+  "password": "1234",
+  "device_id": "bafd1808a61985f9",
+  "expirydate": "19-10-2025 07:33",
+  "Allowoffline": false
+},
+{
+  "username": "mahmud",
+  "password": "1234",
+  "device_id": "4339ca4bf9378d18",
+  "expirydate": "30-10-2025 10:10",
+  "Allowoffline": false
+}
+]
